@@ -1,6 +1,5 @@
 ﻿# week5_hw01
 
-Acceptance criteria: 
 1 - Regular users shouldn't be able to update themselves to admin. (1.5 points) DONE
 
 2 - On creation, no one should be able to make itself an admin. (1.5 points) DONE
